@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rLMHsRRM1FrTc6vDwfuKPiUYan/iJbfGp5u+f3kPeag=",
+  "Hash": "ySfqOWuM+uobtG4e2OmCmStZK+fdjVpl8isJmEwf1P8=",
   "Source": "LanchesMac",
   "BasePath": "_content/LanchesMac",
   "Mode": "Default",
@@ -134,6 +134,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\carousel13.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\thale\\source\\repos\\AspNet\\LanchesMac\\LanchesMac\\wwwroot\\images\\Full-Cart-icon.png",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\thale\\source\\repos\\AspNet\\LanchesMac\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "images/Full-Cart-icon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Full-Cart-icon.png"
+    },
+    {
+      "Identity": "C:\\Users\\thale\\source\\repos\\AspNet\\LanchesMac\\LanchesMac\\wwwroot\\images\\remove.ico",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\thale\\source\\repos\\AspNet\\LanchesMac\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "images/remove.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\remove.ico"
     },
     {
       "Identity": "C:\\Users\\thale\\source\\repos\\AspNet\\LanchesMac\\LanchesMac\\wwwroot\\js\\site.js",
